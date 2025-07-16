@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "title": "THE SAMAHAN WEBSITE  - '24-'25",
+        "briefDesc": "The SAMAHAN website showcases its advocacies, organizational structure, and various offices and departments.",
+        "fullDesc": "The SAMAHAN website showcases its advocacies, organizational structure, and various offices and departments. It highlights the organization's branding while providing comprehensive information about SAMAHAN and its initiatives.",
+        "datelaunched": "2024-11-01T00:00:00.000Z",
+        "links": [
+        {
+            "link": "https://samahan.addu.edu.ph/",
+            "name": "Production"
+        },
+        {
+            "link": "https://github.com/[No Information]",
+            "name": "Repository"
+        }
+        ],
+        "images": [
+        "project-images/samahan-website-1.png", "project-images/samahan-website-2.png"
+        ],
+        "status": "active",
+        "type": "internal",
+        "featured": true,
+        "modifiedAt": "2024-11-01T00:00:00.000Z",
+        "createdAt": "2024-11-01T00:00:00.000Z",
+        "deletedAt": null
+    },
+    {
+        "id": 2,
+        "title": "FYLP Website",
+        "briefDesc": "A digital hub for the convention, providing attendees with essential information and features.",
+        "fullDesc": "A digital hub for the convention, providing attendees with essential information and features such as registration, program flow, speaker details, FAQs, and more.",
+        "datelaunched": "2024-08-01T00:00:00.000Z",
+        "links": [
+        {
+            "link": "https://misscon2025.info/",
+            "name": "Production"
+        },
+        {
+            "link": "https://github.com/[No Information]",
+            "name": "Repository"
+        }
+        ],
+        "images": [
+        "project-images/fylp-1.png", "project-images/fylp-2.png", "project-images/fylp-3.png"
+        ],
+        "status": "active",
+        "type": "[No Information]",
+        "featured": false,
+        "modifiedAt": "2024-08-01T00:00:00.000Z",
+        "createdAt": "2024-08-01T00:00:00.000Z",
+        "deletedAt": null
+    },
+    {
+        "id": 3,
+        "title": "MISSCON 2025",
+        "briefDesc": "A digital hub for the convention, providing attendees with essential information and features.",
+        "fullDesc": "A digital hub for the convention, providing attendees with essential information and features such as registration, program flow, speaker details, FAQs, and more.",
+        "datelaunched": "2025-01-01T00:00:00.000Z",
+        "links": [
+        {
+            "link": "https://misscon2025.info/",
+            "name": "Production"
+        },
+        {
+            "link": "https://github.com/[No Information]",
+            "name": "Repository"
+        }
+        ],
+        "images": [
+        "project-images/misscon-1.png", "project-images/misscon-2", "project-images/misscon-3.png"
+        ],
+        "status": "active",
+        "type": "[No Information]",
+        "featured": false,
+        "modifiedAt": "2025-01-01T00:00:00.000Z",
+        "createdAt": "2025-01-01T00:00:00.000Z",
+        "deletedAt": null
+    }
+]
