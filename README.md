@@ -4,7 +4,7 @@ This repository contains static assets used for development of the [SysDev Websi
 
 ## Contents
 - `members.json` — list of all members with their roles and positions
-- `public/images/` — corresponding profile images for each member
+- `images/` — corresponding profile images for each member
 
 ## Purpose
 This repo is used to stage and test team data separately before it is integrated into the main website. It allows the team to:
