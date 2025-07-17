@@ -4,6 +4,7 @@ This repository contains static assets used for development of the [SysDev Websi
 
 ## Contents
 - `members.json` — list of all members with their roles and positions
+- `project-data.json` — list of all projects with their relevant information.
 - `images/` — corresponding profile images for each member
 
 ## Purpose
